@@ -1,5 +1,16 @@
 # PHP
 
+* [Laracasts php basic](https://laracasts.com/series/php-for-beginners) - PHP for beginners by Jefferey Way
+* [PHP tutorial w3 school](https://www.w3schools.com/php/) - PHP tutorial on w3school
+* [Beginner's PHP](http://www.homeandlearn.co.uk/php/php.html) - PHP learn it step by step
+* [PHP tutorial by tutorial's point](https://www.tutorialspoint.com/php/) - PHP tutorial on TutorialPoint
+* [PHP ultimate guide](https://www.tutorialrepublic.com/php-tutorial/) - PHP tutorial on tutorial republic
+* [PHP Projects](https://www.phptpoint.com/projects/) - PHP Projects
+
+
+ keep practising and keep experimenting a lot and dont ignore the [PHP documentation](http://php.net/docs.php) . Good Luck
+
+
 ##
 
 ## Getting Started with Contributing:
