@@ -6,7 +6,8 @@
 * [PHP tutorial by tutorial's point](https://www.tutorialspoint.com/php/) - PHP tutorial on TutorialPoint
 * [PHP ultimate guide](https://www.tutorialrepublic.com/php-tutorial/) - PHP tutorial on tutorial republic
 * [PHP Projects](https://www.phptpoint.com/projects/) - PHP Projects
-
+* [PHP Videos](https://thenewboston.com/videos.php?cat=11) - PHP tutorial videos
+* [PHP TUTORIAL](https://www.sololearn.com/)  - PHP tutorial on web and Mobile app
 
  keep practising and keep experimenting a lot and dont ignore the [PHP documentation](http://php.net/docs.php) . Good Luck
 
